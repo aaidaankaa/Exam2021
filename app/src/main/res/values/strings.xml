@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exam2021</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="celebrities">Celebrities</string>
+    <string name="achievements">Achievements</string>
+    <string name="weather">Weather</string>
+</resources>
